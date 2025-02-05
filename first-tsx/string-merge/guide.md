@@ -1,0 +1,1 @@
+write nodejs project to merge string and test it with jest

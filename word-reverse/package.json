@@ -1,0 +1,17 @@
+{
+  "name": "word-reverse",
+  "version": "1.0.0",
+  "description": "Kelime ters çevirme uygulaması",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
+} 
